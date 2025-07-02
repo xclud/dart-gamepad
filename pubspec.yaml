@@ -1,5 +1,5 @@
 name: gamepad
-description: A starting point for Dart libraries or applications.
+description: Simple interface to add Gamepad support to Flutter. Supports Xbox Controller and XInput as well.
 version: 0.0.1
 repository: https://github.com/xclud/dart-gamepad
 homepage: https://pwa.ir
