@@ -1,4 +1,4 @@
-library game;
+library leopard;
 
 import 'dart:js_interop';
 

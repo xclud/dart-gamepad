@@ -1,4 +1,4 @@
-part of '../game.dart';
+part of '../leopard.dart';
 
 class GamepadButton {
   const GamepadButton._({

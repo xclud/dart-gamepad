@@ -1,5 +1,5 @@
-name: game
-description: Simple interface to add Gamepad support to Flutter. Supports Xbox Controller and XInput as well.
+name: leopard
+description: Leopard game engine for Flutter. Supports Xbox Controller and XInput as well.
 version: 0.0.1
 repository: https://github.com/xclud/dart-gamepad
 homepage: https://pwa.ir

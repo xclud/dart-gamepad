@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:game/game.dart';
+import 'package:leopard/leopard.dart';
 
 void main() {
   runApp(const MyApp());
