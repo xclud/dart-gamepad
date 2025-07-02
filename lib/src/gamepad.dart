@@ -1,4 +1,4 @@
-part of '../gamepad.dart';
+part of '../game.dart';
 
 class Gamepad {
   const Gamepad({

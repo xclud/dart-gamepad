@@ -1,4 +1,4 @@
-library gamepad;
+library game;
 
 import 'dart:js_interop';
 
